@@ -1,0 +1,40 @@
+Prompt for content that generates saves:
+
+“List 5 practical and little-known tips about [TOPIC].
+Each tip must be a maximum of 12 words, highly actionable, easy to understand, and instantly useful.
+
+The goal is to create an Instagram carousel people can’t resist saving.
+
+Rules:
+- Use strong hooks and curiosity triggers
+- Avoid generic advice
+- Make every tip feel valuable and uncommon
+- Write in a concise, punchy style
+- Keep the language simple but impactful
+- Format the output slide-by-slide
+- Add a powerful title for the first slide
+- Add a save-worthy CTA for the last slide”
+
+--------------------------------------------------
+
+Prompt to repurpose content:
+
+“Turn this text: [PASTE TEXT]
+
+Into:
+1. A 7-second Instagram Reels script
+2. A 5-slide carousel post
+3. A static post with a bold statement
+4. A Twitter/X thread
+5. A LinkedIn-style educational post
+
+Adapt the tone, structure, and writing style for each platform.
+
+Rules:
+- Keep the Reels script fast-paced and hook-heavy
+- Make the carousel concise and visually engaging
+- Make the static post emotionally powerful
+- Include attention-grabbing hooks for every format
+- Use short, modern, creator-style writing
+- Add CTA suggestions for each content type
+- Optimize for engagement, shares, comments, and saves”
