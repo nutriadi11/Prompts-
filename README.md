@@ -27,3 +27,4 @@ Audience: [DESCRIBE TARGET AUDIENCE]
 Platform: Instagram
 Tone: [FUN / LUXURY / EDUCATIONAL / BOLD / EMOTIONAL]
 
+
