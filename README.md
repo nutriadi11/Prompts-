@@ -1,5 +1,4 @@
 Create a high-converting Instagram CTA strategy for posts about [TOPIC].
-
 Generate:
 • 10 short, scroll-stopping CTAs
 • 10 curiosity-based comment prompts
